@@ -1,6 +1,6 @@
 task/tracker/tasktracker/service/TaskService.class
 task/tracker/tasktracker/TaskTrackerApplication.class
-main/java/task/tracker/tasktracker/model/Task.class
 task/tracker/tasktracker/repository/TaskRepository.class
+task/tracker/tasktracker/model/Task.class
+task/tracker/tasktracker/model/Task$Status.class
 task/tracker/tasktracker/controller/TaskController.class
-main/java/task/tracker/tasktracker/model/Task$Status.class
