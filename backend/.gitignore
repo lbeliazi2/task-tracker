@@ -1,0 +1,31 @@
+# Java / Maven
+target/
+*.class
+*.jar
+*.war
+*.iml
+*.log
+
+# IntelliJ / Eclipse / VS Code
+.idea/
+.vscode/
+*.iws
+*.ipr
+*.bak
+.settings/
+.project
+.classpath
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env & config
+.env
+.env.*
+application.properties
+application.yml
+
+# Docker
+docker-compose.override.yml
